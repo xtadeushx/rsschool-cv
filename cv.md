@@ -60,9 +60,10 @@ Faculty of Ecology
 [Pet projects]https://github.com/xtadeushx
 
 #### Lenguages: <h3>
- **[###### English: <h5>]**
+
+ ###### English: <h5> 
  * ###### A2 <h6>
-**[###### Ukrainian: <h5>]**
+###### Ukrainian: <h5>
  * ###### Native <h6>
-**[###### Russian: <h5>]**
+###### Russian: <h5>
 * ###### c2 <h6>
