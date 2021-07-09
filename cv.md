@@ -2,11 +2,11 @@
 https://xtadeushx.github.io/rsschool-cv/cv
 
 
-# Aleksandr Cherkasov <h1>
+# Aleksandr Cherkasov 
 
-## Junior Front-End Developer<h2>
+## Junior Front-End Developer
 
-##### Contact Info<h3>
+##### Contact Info
 
 * **Email**: alekscherkasov13@gmail.com
 
@@ -14,27 +14,26 @@ https://xtadeushx.github.io/rsschool-cv/cv
 
 * **LincedIn**: Alex Cherkasov
 
-##### Summary <h4>
-
+##### Summary 
 Now I’m focused on becoming a subject matter professional in this field. I would love to take on a lead role and help the team succeed.
 
-##### Strengths <h4>
+##### Strengths 
 I have a couple of strengths, but if I had to choose one, I would choose work ethics. I’m driven to succeed and deliver results. Now I’m trying to keep everything in balance. 
 
-##### Blockquote <h4>
+##### Blockquote 
 > No pain No gain
 
-##### Skills <h4>
+##### Skills 
 
-###### HTML5 CSS3 JavaScript <h6>
-###### Bootstrap 5 <h6>
-###### SCSS <h6>
-###### Figma  <h6>
-###### Git <h6>
+###### HTML5 CSS3 JavaScript 
+###### Bootstrap 5 
+###### SCSS
+###### Figma  
+###### Git 
 ###### React (simple Lvl)
 
 
-##### Code examples <h4>
+##### Code examples 
 _//Complete the function that takes an odd integer (0 < n < 1000000) which is the difference between two consecutive perfect squares, and return these squares as a string in the format "bigger-smaller"_
 
 ```
@@ -47,23 +46,23 @@ const findSquares = num => {
 ```
 _//9  -->  "25-16" //5  -->  "9-4" //7  -->  "16-9"_
 
-##### Education <h4>
+##### Education 
 Higher education,
 Open Internatianal Universitu of Human Development "Ukraine",
 Faculty of Ecology
 
-###### courses <h5>
+###### courses 
 [ITGid]https://itgid.info/
 
 
-##### Experience <h4> 
+##### Experience 
 [Pet projects]https://github.com/xtadeushx
 
-#### Lenguages: <h3>
+#### Lenguages: 
 
- ###### English: <h5> 
+ ###### English: 
  * ###### A2 <h6>
-###### Ukrainian: <h5>
- * ###### Native <h6>
-###### Russian: <h5>
-* ###### c2 <h6>
+###### Ukrainian: 
+ * ###### Native 
+###### Russian: 
+* ###### c2 
