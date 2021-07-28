@@ -139,6 +139,7 @@ ul {
 
 .skills:hover {
     background-color: #c8cbcc;
+    border: 1x solid #000000;
 }
 
 /* Code examples */
