@@ -7,15 +7,18 @@ body {
     line-height: 1.6;
     font-family: Arial, Helvetica, sans-serif;
     background-attachment: fixed;
-    background-color: rgb(170, 170, 175);
+    background-color: rgb(237, 237, 245);
+    box-shadow: 10px 5px 5px rgb(150, 148, 148);
+    background-color: rgb(197, 193, 193);
 }
 
 .wrapper {
     max-width: 1024px;
     margin: 0 auto;
-    background-color: #ffffff;
-    border: 1px solid rgb(21, 21, 59);
+    border: 1px solid rgb(72, 72, 73);
     margin-top: 50px;
+    box-shadow: 10px 5px 5px rgb(150, 148, 148);
+    background-color: rgb(247, 241, 241);
 }
 
 /* Header */
@@ -55,7 +58,7 @@ h1 {
 
 h2 {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Noto Sans TC', sans-serif;
     word-spacing: 10px;
     letter-spacing: 2px;
@@ -73,6 +76,7 @@ h2 {
     padding: 50px 10px 10px 10px;
     font-size: 17px;
     font-family: 'Noto Sans TC', sans-serif;
+    font-style: italic;
 }
 
 .about p {
@@ -233,4 +237,26 @@ a, a>span {
 
 a:hover {
     text-decoration: underline;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px;
+}
+
+.footer {
+    color: rgb(14, 13, 13);
+    background-color: #3e7b9e;
+    font-weight: bold;
+}
+
+.footer__logo a {
+    display: flex;
+    align-items: center;
+}
+
+.footer__logo a p {
+    margin-left: 10px;
 }
