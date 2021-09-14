@@ -1,5 +1,5 @@
 # rsschool-cv
-https://xtadeushx.github.io/rsschool-cv/
+https://xtadeushx.github.io/rsschool-cv/cv
 
 # Aleksandr Cherkasov <h1>
 
