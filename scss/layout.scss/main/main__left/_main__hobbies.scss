@@ -1,4 +1,4 @@
-.main__hobbies {}
+//.main__hobbies {}
 
 .hobbies__title {
     width          : 25%;
@@ -12,8 +12,6 @@
     padding        : 10px;
     display        : flex;
     justify-content: center;
-    /* identical to box height, or 129% */
-
 
     color: #FFFFFF;
 }
@@ -31,7 +29,7 @@
     align-items   : center;
 }
 
-.row__img {}
+// {}
 
 .row__text p {
     margin-top : 5px;
