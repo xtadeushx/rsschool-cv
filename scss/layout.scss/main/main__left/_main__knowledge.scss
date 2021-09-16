@@ -1,0 +1,41 @@
+.main__knowledge {
+    margin-bottom: 13px;
+    background   : rgba(196, 196, 196, 0.35);
+    border-radius: 10px;
+}
+
+.knowledge__title h4 {
+    font-family : 'Montserrat';
+    font-weight : bold;
+    font-size   : 14px;
+    line-height : 18px;
+    color       : #FFFFFF;
+    padding-left: 15px;
+    padding-top : 10px;
+
+}
+
+//.knowledge__list {}
+
+.knowledgies_item {
+    font-family: 'Calibri';
+    font-size  : 14px;
+    line-height: 18px;
+    color      : #FAFAFA;
+    list-style : none;
+    margin     : 10px 0px;
+    position   : relative;
+
+    &::before {
+        content      : " ";
+        display      : block;
+        border       : 1px solid #FAFAFA;
+        width        : 10px;
+        height       : 10px;
+        border-radius: 50%;
+        position     : absolute;
+        top          : 5px;
+        left         : -20px;
+        color        : #FAFAFA;
+    }
+}

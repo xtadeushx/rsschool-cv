@@ -1,0 +1,48 @@
+.main__log {
+    display    : flex;
+    align-items: center;
+
+    gap: 10px;
+}
+
+.logo__avatar img {
+    width          : 100px;
+    height         : 110px;
+    border-radius  : 50%;
+    max-width      : 100%;
+    object-fit     : cover;
+    object-position: center;
+}
+
+.logo__title {
+
+
+    & h3 {
+        font-family: 'Montserrat';
+        font-style : normal;
+        font-weight: normal;
+        font-size  : 25px;
+        line-height: 30px;
+        color      : #CECACA;
+    }
+
+    & h2 {
+        font-family: 'Montserrat';
+        font-style : normal;
+        font-weight: 500;
+        font-size  : 35px;
+        line-height: 43px;
+        /* identical to box height */
+        color      : #FFFFFF;
+    }
+
+    & p {
+        font-family: ' Montserrat';
+        font-style : normal;
+        font-weight: bold;
+        font-size  : 15px;
+        line-height: 18px;
+        color      : #CECACA;
+    }
+
+}

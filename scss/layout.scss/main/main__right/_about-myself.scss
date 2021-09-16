@@ -1,0 +1,46 @@
+.skils__title {
+    display        : flex;
+    width          : 154px;
+    background     : #545454;
+    border-radius  : 5px;
+    font-family    : 'Montserrat';
+    font-weight    : 600;
+    font-size      : 14px;
+    line-height    : 18px;
+    color          : #FFFFFF;
+    align-items    : center;
+    justify-content: center;
+    padding        : 5px;
+    position       : absolute;
+
+    &::after {
+        content : '';
+        width   : 173%;
+        height  : 1px;
+        border  : 1px solid #545454;
+        position: absolute;
+        top     : 12px;
+        left    : 153px;
+    }
+}
+
+.about-myself__video {
+    margin-top     : 55px;
+    display        : flex;
+    justify-content: center;
+
+    & video {
+        height: 200px;
+    }
+}
+
+.credo {
+    font-family: 'Dancing Script', cursive;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size  : 24px;
+    line-height: 18px;
+    color      : #343434;
+    margin     : 12px 0px;
+    text-align : center;
+}

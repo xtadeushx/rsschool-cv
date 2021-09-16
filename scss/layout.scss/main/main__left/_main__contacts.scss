@@ -1,0 +1,47 @@
+.main__contacts {
+    margin-top   : 30px;
+    margin-bottom: 13px;
+}
+
+.contacts__row {
+    display        : flex;
+    align-items    : center;
+    justify-content: left;
+    background     : rgba(196, 196, 196, 0.35);
+    border-radius  : 10px;
+    margin         : 10px 0px;
+
+}
+
+.row__img {
+    padding: 0px 15px;
+}
+
+.row__link {
+    padding     : 10px 5px;
+    padding-left: 30px;
+
+    a {
+
+        font-family    : 'Arial';
+        font-size      : 15px;
+        line-height    : 16px;
+        text-decoration: none;
+        text-align     : center;
+        color          : #FFFFFF;
+
+        &:hover {
+            text-decoration: underline;
+            cursor         : pointer;
+
+        }
+
+        &:visited {
+            text-decoration: underline;
+            color          : #fbf8fc;
+        }
+
+    }
+
+
+}
