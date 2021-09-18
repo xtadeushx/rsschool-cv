@@ -1,9 +1,9 @@
 # rsschool-cv
 https://xtadeushx.github.io/rsschool-cv/cv
 
-# Aleksandr Cherkasov <h1>
+# Aleksandr Cherkasov
 
-## Junior Front-End Developer<h2>
+## Junior Front-End Developer
 
 ##### Contact Info<h4>
 
