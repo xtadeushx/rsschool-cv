@@ -11,7 +11,7 @@ https://xtadeushx.github.io/rsschool-cv/cv
 
 * **Telegram**: @aleksa cherkasov
 
-* **LincedIn**: Alex Cherkasov
+* **LincedIn**: Alexandr Cherkasov
 
 ##### Summary 
 
