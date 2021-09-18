@@ -1,4 +1,4 @@
-.skils__title {
+.about-myself__title {
     display        : flex;
     width          : 154px;
     background     : #545454;
@@ -11,17 +11,20 @@
     align-items    : center;
     justify-content: center;
     padding        : 5px;
-    position       : absolute;
+    position       : relative;
 
-    &::after {
-        content : '';
-        width   : 173%;
-        height  : 1px;
-        border  : 1px solid #545454;
-        position: absolute;
-        top     : 12px;
-        left    : 153px;
+    & h4 {
+        padding   : 0px 5px;
+        text-align: center;
     }
+}
+
+.about-myself__content {
+
+    width     : 100%;
+    border-top: 1px solid #545454;
+    margin-top: -15px;
+
 }
 
 .about-myself__video {
@@ -30,7 +33,7 @@
     justify-content: center;
 
     & video {
-        height: 200px;
+        max-width: 90%;
     }
 }
 

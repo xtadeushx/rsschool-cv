@@ -14,6 +14,21 @@
     object-position: center;
 }
 
+.logo__avatar:hover {
+    animation-name    : flip_animation;
+    animation-duration: 1s !important;
+}
+
+@keyframes flip_animation {
+    from {
+        transform: rotateY(0deg);
+    }
+
+    to {
+        transform: rotateY(360deg);
+    }
+}
+
 .logo__title {
 
 
@@ -45,4 +60,27 @@
         color      : #CECACA;
     }
 
+}
+
+@media (max-width : 600px) {
+    .main__log {
+        display       : flex;
+        flex-direction: column;
+        align-items   : center;
+
+
+    }
+
+    .logo__title {
+        display        : flex;
+        flex-direction : column;
+        justify-content: center;
+        align-items    : center;
+
+
+    }
+
+    .logo__avatar img {
+        margin-top: 20px;
+    }
 }

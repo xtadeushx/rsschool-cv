@@ -17,23 +17,23 @@
     align-items    : center;
     justify-content: center;
     padding        : 5px;
-    position       : absolute;
+    position       : relative;
 
-    &::after {
-        content : '';
-        width   : 173%;
-        height  : 1px;
-        border  : 1px solid #545454;
-        position: absolute;
-        top     : 12px;
-        left    : 153px;
+    & h4 {
+        padding: 0px 25px;
     }
+
+
 }
 
 .other-skils__content {
-    margin         : 35px;
+    width          : 100%;
+    margin-top     : -15px;
+    padding-top    : 15px;
     display        : flex;
     justify-content: space-between;
+    border-top     : 1px solid #545454;
+
 }
 
 .other-skils__content-items {

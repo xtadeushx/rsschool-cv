@@ -4,10 +4,11 @@
 
 .education__title {
     display        : flex;
-    width          : 154px;
+    max-width      : 154px;
     background     : #545454;
     border-radius  : 5px;
     font-family    : 'Montserrat';
+    font-style     : normal;
     font-weight    : 600;
     font-size      : 14px;
     line-height    : 18px;
@@ -15,23 +16,19 @@
     align-items    : center;
     justify-content: center;
     padding        : 5px;
-    position       : absolute;
+    position       : relative;
 
-    &::after {
-        content : '';
-        width   : 173%;
-        height  : 1px;
-        border  : 1px solid #545454;
-        position: absolute;
-        top     : 12px;
-        left    : 153px;
+    & h4 {
+        padding: 0px 25px;
     }
 }
 
-.education__content {
-    margin-top: 45px;
-    width     : 75%;
+div.education>div:nth-child(2) {
+    width     : 100%;
+    border-top: 1px solid #545454;
+    margin-top: -15px;
 }
+
 
 .education__content-title {
     font-family: 'Montserrat', sans-serif;
@@ -39,7 +36,8 @@
     font-size  : 14px;
     line-height: 18px;
     color      : #343434;
-    margin     : 10px 0px;
+    margin     : 12px 0px;
+    padding-top: 15px;
 }
 
 .education__content-time {

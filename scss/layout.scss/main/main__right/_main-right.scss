@@ -8,3 +8,11 @@
     padding       : 18px;
 
 }
+
+@media (max-width : 960px) {
+    .main__right {
+        width : 96%;
+        margin: 15px;
+
+    }
+}

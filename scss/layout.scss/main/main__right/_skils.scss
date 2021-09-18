@@ -4,8 +4,7 @@
 
 .skils__title {
     display        : flex;
-    width          : 154px;
-    /* height      : 24px; */
+    max-width      : 154px;
     background     : #545454;
     border-radius  : 5px;
     font-family    : 'Montserrat';
@@ -17,23 +16,23 @@
     align-items    : center;
     justify-content: center;
     padding        : 5px;
-    position       : absolute;
+    position       : relative;
 
-    &::after {
-        content : '';
-        width   : 173%;
-        height  : 1px;
-        border  : 1px solid #545454;
-        position: absolute;
-        top     : 12px;
-        left    : 153px;
+    & h4 {
+        padding: 0px 25px;
     }
+
+
 }
 
 .skils__content {
-    margin-top     : 35px;
+    //width     : 100%; 
+    margin-top     : -15px;
+    padding-top    : 15px;
+    border-top     : 1px solid #545454;
     display        : flex;
     justify-content: space-between;
+
 }
 
 .skils__content-items {
