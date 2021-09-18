@@ -1,0 +1,37 @@
+.hobbies__title {
+    width          : 25%;
+    padding        : 5px;
+    background     : rgba(196, 196, 196, 0.35);
+    border-radius  : 10px;
+    font-family    : 'Montserrat';
+    font-weight    : bold;
+    font-size      : 14px;
+    line-height    : 18px;
+    padding        : 10px;
+    display        : flex;
+    justify-content: center;
+    color          : #FFFFFF;
+}
+
+
+.main__hobbies-content {
+    display        : flex;
+    justify-content: space-between;
+}
+
+.hobbies__row {
+    margin-top    : 15px;
+    display       : flex;
+    flex-direction: column;
+    align-items   : center;
+}
+
+
+.row__text p {
+    margin-top : 5px;
+    font-family: ' Montserrat';
+    font-weight: bold;
+    font-size  : 10px;
+    line-height: 18px;
+    color      : #E5E5E5;
+}
