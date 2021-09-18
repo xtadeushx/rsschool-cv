@@ -1,0 +1,32 @@
+@import '../abstraction/variabls';
+
+.footer {
+    color  : rgb(17, 17, 17);
+    padding: 0px 20px;
+
+    &__content {
+        width           : 100%;
+        display         : flex;
+        align-items     : center;
+        justify-content : space-between;
+        padding         : 20px 40px;
+        background-color: $footer-background-color;
+    }
+
+    &__logo a {
+        display        : flex;
+        align-items    : center;
+        padding-left   : 5px;
+        color          : rgb(17, 17, 17);
+        text-decoration: none;
+        cursor         : pointer;
+    }
+}
+
+// .conteiner {}
+
+// .footer_.my-github {}
+
+// .footer__medium {}
+
+// .footer__right {}

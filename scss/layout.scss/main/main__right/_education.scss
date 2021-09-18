@@ -1,0 +1,55 @@
+.education {
+    margin: 15px 0px;
+}
+
+.education__title {
+    display        : flex;
+    max-width      : 154px;
+    background     : #545454;
+    border-radius  : 5px;
+    font-family    : 'Montserrat';
+    font-style     : normal;
+    font-weight    : 600;
+    font-size      : 14px;
+    line-height    : 18px;
+    color          : #FFFFFF;
+    align-items    : center;
+    justify-content: center;
+    padding        : 5px;
+    position       : relative;
+
+    & h4 {
+        padding: 0px 25px;
+    }
+}
+
+div.education>div:nth-child(2) {
+    width     : 100%;
+    border-top: 1px solid #545454;
+    margin-top: -15px;
+}
+
+
+.education__content-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size  : 14px;
+    line-height: 18px;
+    color      : #343434;
+    margin     : 12px 0px;
+    padding-top: 15px;
+}
+
+.education__content-time {
+    font-family: 'Montserrat', sans-serif;
+    font-size  : 9px;
+    line-height: 18px;
+    color      : #73808D;
+}
+
+.education__content-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size  : 12px;
+    line-height: 14px;
+    color      : rgba(0, 0, 0, 0.8);
+}
