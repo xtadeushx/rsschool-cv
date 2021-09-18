@@ -19,10 +19,10 @@ My goal is to work remotely for a company.
 
 ##### Skills
 
-###### HTML5 CSS3 JavaScript <h6>
+###### HTML5 CSS3 JavaScript
 ###### Bootstrap 4 
 ###### SCSS 
-###### Adobe Photoshop Zeplin  <h6>
+###### Adobe Photoshop Zeplin
 ###### Git 
 ###### CMS Wordpress 
 
