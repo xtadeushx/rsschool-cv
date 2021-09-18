@@ -68,7 +68,8 @@ select {
     scroll-behavior: auto !important; } }
 .footer {
   color: #111111;
-  padding: 0px 20px; }
+  padding: 0px 20px;
+  margin-bottom: 30px; }
   .footer__content {
     width: 100%;
     display: flex;
