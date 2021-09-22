@@ -1,0 +1,21 @@
+@import './main/main__left/main__left';
+@import './main/main__left/_main__log.scss';
+@import './main/main__left/main__contacts';
+@import './main/main__left/main__hobbies';
+@import './main/main__left/main__knowledge';
+@import './main//main__left/main__lenguages';
+@import './main/main__left/main__social';
+
+@import './main/main__right/main-right';
+@import './main/main__right/experience';
+@import './main/main__right/education';
+@import './main/main__right/skils';
+@import './main/main__right/other-skils';
+@import './main/main__right/about-myself';
+
+
+.main {
+    margin-top: 30px;
+    display   : flex;
+    padding   : 0px 20px;
+}
