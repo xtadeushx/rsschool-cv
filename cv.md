@@ -17,7 +17,7 @@ https://xtadeushx.github.io/rsschool-cv/cv
 ##### Summary
 
 My goal is to work remotely for a company.
-To be apert of a good company
+To be a part of a good company. 
 
 ##### Skills
 
