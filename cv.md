@@ -23,7 +23,7 @@ To be a part of a good company.
 
 ###### HTML5 CSS3 JavaScript
 
-###### Bootstrap 4
+###### Bootstrap 5
 
 ###### SCSS
 
@@ -33,7 +33,7 @@ To be a part of a good company.
 
 ###### React
 
-###### Redux
+###### Redux/toolkit
 
 ###### Typescript
 
@@ -43,9 +43,9 @@ _//Complete the function that takes an odd integer (0 < n < 1000000) which is th
 
 ```
 const findSquares = num => {
-    let min, max
-    min = Math.floor(num / 2)
-    max = num - min
+    let min, max;
+    min = Math.floor(num / 2);
+    max = num - min;
     return `${Math.pow(max, 2)}-${Math.pow(min, 2)}`;
 }
 ```
